@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+tensorflow==2.13.1
+google-cloud-storage==1.16.1
+Pillow==6.0.0
+pydantic
+numpy
+python-multipart
